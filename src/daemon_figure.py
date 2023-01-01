@@ -3,6 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt 
 import matplotlib.image as mpimg 
 from matplotlib import animation
+from PIL import Image
 ######defining one figure for our project#######
 fig = plt.figure()
 ###########################(making our picture into gray)
